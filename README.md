@@ -35,7 +35,7 @@ This project provides an end-to-end solution for **analyzing and predicting cust
 ![Churn Dashboard](images/ChurnDashboard1.PNG)
 
 ### 🔹 Churn Prediction
-![Drill-through](images/ChurnDashboard2.png)
+![Drill-through](images/ChurnDashboard2.PNG)
 
 ### 🔹 Slicer and Navigation Enhancements
 ![Slicers and Navigation](images/ChurnDashboard3.PNG)
