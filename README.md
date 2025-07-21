@@ -45,8 +45,8 @@ This project provides an end-to-end solution for **analyzing and predicting cust
 ## 🧠 ML Model Summary
 
 - Features used: tenure, monthly charges, internet service, contract type, etc.
-- **Train-Test Split:** 80/20
-- **Accuracy Achieved:** 84% *(replace with your value)*
+- **Train-Test Split:** 84/16
+- **Accuracy Achieved:** 84%
 - **Libraries Used:** `pandas`, `sklearn`, `matplotlib`, `seaborn`
 
 
