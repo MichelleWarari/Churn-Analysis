@@ -32,13 +32,13 @@ This project provides an end-to-end solution for **analyzing and predicting cust
 ## 📊 Dashboard Previews
 
 ### 🔹 Churn Overview
-![Churn Dashboard](images/churn_dashboard.png)
+![Churn Dashboard](images/ChurnDashboard1.PNG)
 
-### 🔹 Drill-through by Churn Reason
-![Drill-through](images/drill_through_churn_reason.png)
+### 🔹 Churn Prediction
+![Drill-through](images/ChurnDashboard2.png)
 
 ### 🔹 Slicer and Navigation Enhancements
-![Slicers and Navigation](images/slicers_navigation.png)
+![Slicers and Navigation](images/ChurnDashboard3.PNG)
 
 ---
 
